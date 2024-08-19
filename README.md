@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Kuteyi Ayotomiwa Joel{A.I INSTARAJ}
+- 👋 Hi, I’m Kuteyi Ayotomiwa Joel {A.I INSTARAJ}
 - 👀 I’m interested in exploring the world of technology and leveraging on existing tools to develop better one's.
-- 🌱 I’m currently learning artificial intelligence and I am an expertise in several technologies including blockchain, machine learning and a lot of these great technologies.
+- 🌱 I’m currently into artificial intelligence and I am an expertise in several technologies including blockchain technology, data science, robotics and a lot more great technologies.
 - 💞️ I’m looking to collaborate on several projects in the field of computing and programming.
-- 📫 Reach me out on all social media pages{@a.i.instaraj}
+- 📫 Reach me out on all social media pages {@a.i.instaraj}
 - ⚡ Fun fact:  Exploration beyond limits.....
 
 <!---
